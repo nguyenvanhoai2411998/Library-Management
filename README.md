@@ -1,10 +1,10 @@
 # Library-Management
 <h1> This program will have following basic function </h1>
 <hr>
-<ul>
-<ol> Add new document like 'book','magazine','newspaper' </ol>
-<ol> Delete document by document ID</ol>
-<ol> Show all document available in library</ol>
-<ol> Search document by type</ol>
-<ol> Exit</ol>
-</ul>
+<ol>
+  <li> Add new document like 'book','magazine','newspaper' </li> 
+  <li> Delete document by document ID</li>
+  <li> Show all document available in library</li>
+  <li> Search document by type</li>
+  <li> Exit</li>
+</ol>
